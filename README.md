@@ -74,3 +74,7 @@ python app.py
 - Designed for real-time webcam use.
 
 - Works best with Python 3.11 and a properly activated virtual environment.
+
+# License
+
+- This project is licensed under the MIT License.
