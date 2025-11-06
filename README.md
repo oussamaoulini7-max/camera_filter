@@ -53,7 +53,7 @@ Pillow
 numpy
 ```
 
-# Usage
+## Usage
 
 ```bash
 python app.py
@@ -65,7 +65,7 @@ python app.py
 
 - Click Stop Camera to end the session.
 
-# Notes
+## Notes
 
 - Make sure all filter images are in the filters/ folder.
 
@@ -75,6 +75,6 @@ python app.py
 
 - Works best with Python 3.11 and a properly activated virtual environment.
 
-# License
+## License
 
 - This project is licensed under the MIT License.
